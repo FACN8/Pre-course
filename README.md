@@ -1,2 +1,3 @@
-# Pre-course
-Pre-course materials and workshops
+# FACN8 pre-course
+
+This repository contains pre-course materials and workshops. 
