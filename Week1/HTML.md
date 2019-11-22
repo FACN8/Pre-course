@@ -46,3 +46,13 @@ The main parts of our element are:
 2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
 3. The content: This is the content of the element, which in this case is just text.
 4. The element: The opening tag plus the closing tag plus the content equals the element.
+
+### Basic structure of an HTML page
+
+![html basic structure](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557582430)
+
+The three tags that you need for your HTML document are <html>, <head>, and <body>.
+
+1. The `<html></html>` tag is the highest level element that encloses every HTML page.
+2. The `<head></head>` tag holds meta information such as the page’s title and charset.
+3. Finally, the `<body></body>` tag encloses **all the content that appears on the page**.
