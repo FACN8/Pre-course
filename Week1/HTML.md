@@ -1,6 +1,6 @@
 # Introduction to HTML
 
-![html5 logo](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557520195)
+![html5 logo](https://user-images.githubusercontent.com/22002193/69427138-9016d800-0d37-11ea-8dd6-311ee40b308d.png =500x500)
 
 HTML is one of the most widely used languages on Web to develop web pages. It helps you delve into the world of Web Development and improve your skills.
 
@@ -21,9 +21,10 @@ HTML was text-based and anyone could use any editor or word processor to create 
 
 A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes the text more interactive and dynamic. It can turn text into images, tables, links, etc.
 
-![html blocks](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557541613)
+![html blocks](https://user-images.githubusercontent.com/22002193/69431669-dde40e00-0d40-11ea-9eca-eebebf65e58f.jpg)
 
-HTML describes the structure of a Web page, this structure consists of a series of elements that tell the browser how to display the content. HTML elements are represented by tags that label pieces of content such as "heading", "paragraph", "table", and so on...
+HTML describes the structure of a Web page, this structure consists of a series of elements that tell the browser how to display the content. 
+HTML elements are represented by tags that label pieces of content such as "heading", "paragraph", "table", and so on...
 
 Let's look at an example:
 https://codepen.io/shiryz/pen/pooBWVW?editors=1000#0
@@ -38,18 +39,18 @@ Try it yourself, add the following line to the pen:
 
 Let's explore our paragraph element a bit further:
 
-![paragraph tag](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557581451)
+![paragraph tag](https://user-images.githubusercontent.com/22002193/69439165-10950300-0d4f-11ea-99cf-3509e06cf8f9.png)
 
 The main parts of our element are:
 
-1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the start of the paragraph is.
-2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
+1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets `<>`. This states where the element begins or starts to take effect — in this case where the start of the paragraph is.
+2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name `</>`. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
 3. The content: This is the content of the element, which in this case is just text.
 4. The element: The opening tag plus the closing tag plus the content equals the element.
 
 ### Basic structure of an HTML page
 
-![html basic structure](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557582430)
+![html basic structure](https://user-images.githubusercontent.com/22002193/69439363-72556d00-0d4f-11ea-8779-2005751cdd10.png)
 
 The three tags that you need for your HTML document are <html>, <head>, and <body>.
 
