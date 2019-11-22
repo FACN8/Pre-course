@@ -22,3 +22,27 @@ HTML was text-based and anyone could use any editor or word processor to create 
 A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes the text more interactive and dynamic. It can turn text into images, tables, links, etc.
 
 ![html blocks](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557541613)
+
+HTML describes the structure of a Web page, this structure consists of a series of elements that tell the browser how to display the content. HTML elements are represented by tags that label pieces of content such as "heading", "paragraph", "table", and so on...
+
+Let's look at an example:
+https://codepen.io/shiryz/pen/pooBWVW?editors=1000#0
+
+Try it yourself, add the following line to the pen:
+
+```html
+<h2>This is an h2 tag</h2>
+```
+
+### Tag exploration
+
+Let's explore our paragraph element a bit further:
+
+![paragraph tag](https://github.com/FACN8/Pre-course/issues/2#issuecomment-557581451)
+
+The main parts of our element are:
+
+1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the start of the paragraph is.
+2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
+3. The content: This is the content of the element, which in this case is just text.
+4. The element: The opening tag plus the closing tag plus the content equals the element.
