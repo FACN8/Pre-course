@@ -1,6 +1,6 @@
 # Introduction to HTML
 
-![html5 logo](https://user-images.githubusercontent.com/22002193/69427138-9016d800-0d37-11ea-8dd6-311ee40b308d.png =500x500)
+![html5 logo](https://user-images.githubusercontent.com/22002193/69427138-9016d800-0d37-11ea-8dd6-311ee40b308d.png =500x)
 
 HTML is one of the most widely used languages on Web to develop web pages. It helps you delve into the world of Web Development and improve your skills.
 
