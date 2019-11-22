@@ -15,6 +15,7 @@ HTML is one of the most widely used languages on Web to develop web pages. It he
 ## Origin of HTML
 
 HTML - Hyper Text Markup Language is a language that was created by Tim Berners-Lee was putting together his first elementary browsing and authoring system for the Web and created a quick little hypertext language that would serve his purposes.
+
 HTML was text-based and anyone could use any editor or word processor to create or convert documents for the Web. The developers started implementing new features in their browsers and started releasing advanced versions of HTML.
 
 ## What is HTML?
@@ -23,11 +24,14 @@ A markup language is a computer language that is used to apply layout and format
 
 ![html blocks](https://user-images.githubusercontent.com/22002193/69431669-dde40e00-0d40-11ea-9eca-eebebf65e58f.jpg)
 
-HTML describes the structure of a Web page, this structure consists of a series of elements that tell the browser how to display the content. 
+HTML describes the structure of a Web page, this structure consists of a series of elements that tell the browser how to display the content.
+
 HTML elements are represented by tags that label pieces of content such as "heading", "paragraph", "table", and so on...
 
 Let's look at an example:
 https://codepen.io/shiryz/pen/pooBWVW?editors=1000#0
+
+## Task
 
 Try it yourself, add the following line to the pen:
 
@@ -48,7 +52,7 @@ The main parts of our element are:
 3. The content: This is the content of the element, which in this case is just text.
 4. The element: The opening tag plus the closing tag plus the content equals the element.
 
-### Basic structure of an HTML page
+## Basic structure of an HTML page
 
 ![html basic structure](https://user-images.githubusercontent.com/22002193/69439363-72556d00-0d4f-11ea-8779-2005751cdd10.png)
 
@@ -57,3 +61,50 @@ The three tags that you need for your HTML document are <html>, <head>, and <bod
 1. The `<html></html>` tag is the highest level element that encloses every HTML page.
 2. The `<head></head>` tag holds meta information such as the page’s title and charset.
 3. Finally, the `<body></body>` tag encloses **all the content that appears on the page**.
+
+## How does HTML work?
+
+HTML documents end with the .html or .htm extension. You can view it using any web browser. The browser reads the HTML file and renders the content for users to view it.
+
+### Building a basic HTML page
+
+- open your favourite editor and create a file called `my-first-page.html`
+- type `html` in the page and press `tab`, this will automatically generate an html page for you.
+
+The result should look like the following:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+  </head>
+  <body></body>
+</html>
+```
+
+_Note: We will explore all the tags later_
+
+- In the `<body>` tag add an `<h1>`
+
+Your code should look something like this:
+
+```html
+<body>
+  <h1>The Main Heading</h1>
+</body>
+```
+
+- Right click on your html file and click on `open in browser`, this should open the browser with the result of this file. You should see the h1 heading.
+
+- Let's explore this a bit more, in the browser, open the inspector. You can do so by either pressing `f12` or right clicking on the page and then inspect or pressing `ctrl+shift+i`.
+  - You should see be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
+
+### Task
+
+Your task is to change the elements in the browser, delete the current `h1` tag and add an `img` tag.
+
+- Find out more about the
+
+_Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will to actually do it from the file itself.
