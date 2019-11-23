@@ -8,6 +8,7 @@ HTML is one of the most widely used languages on Web to develop web pages. It he
 
 - Origin of HTML
 - What is HTML?
+  - Tag exploration
 - HTML Structure
 - How does HTML work?
 - Fundamentals of HTML
@@ -47,8 +48,8 @@ Let's explore our paragraph element a bit further:
 
 The main parts of our element are:
 
-1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets `<>`. This states where the element begins or starts to take effect — in this case where the start of the paragraph is.
-2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name `</>`. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
+1. The opening tag - `<p>`: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets `<>`. This states where the element begins or starts to take effect — in this case where the start of the paragraph is.
+2. The closing tag - `</p>`: This is the same as the opening tag, except that it includes a forward slash before the element name `</>`. This states where the element ends — in this case where the end of the paragraph is. Failing to include a closing tag is a common beginner error and can lead to strange results.
 3. The content: This is the content of the element, which in this case is just text.
 4. The element: The opening tag plus the closing tag plus the content equals the element.
 
@@ -66,10 +67,10 @@ The three tags that you need for your HTML document are <html>, <head>, and <bod
 
 HTML documents end with the .html or .htm extension. You can view it using any web browser. The browser reads the HTML file and renders the content for users to view it.
 
-### Building a basic HTML page
+### Task: Build a basic HTML page
 
 - open your favourite editor and create a file called `my-first-page.html`
-- type `html` in the page and press `tab`, this will automatically generate an html page for you.
+- type `html` in the page and press the `tab` key, this will automatically generate an html page for you.
 
 The result should look like the following:
 
@@ -96,15 +97,15 @@ Your code should look something like this:
 </body>
 ```
 
-- Right click on your html file and click on `open in browser`, this should open the browser with the result of this file. You should see the h1 heading.
+- Right click on your html file and click on `open in browser`, this should open the browser with the result of this file. You should see the h1 heading with `The Main Heading` on the page.
 
 - Let's explore this a bit more, in the browser, open the inspector. You can do so by either pressing `f12` or right clicking on the page and then inspect or pressing `ctrl+shift+i`.
   - You should see be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
 
 ### Task
 
-Your task is to change the elements in the browser, delete the current `h1` tag and add an `img` tag.
+Your task is to change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
 
-- Find out more about the
+- Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
 
-_Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will to actually do it from the file itself.
+_Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will have to actually do it from the file itself.
