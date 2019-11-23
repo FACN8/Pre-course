@@ -100,12 +100,56 @@ Your code should look something like this:
 - Right click on your html file and click on `open in browser`, this should open the browser with the result of this file. You should see the h1 heading with `The Main Heading` on the page.
 
 - Let's explore this a bit more, in the browser, open the inspector. You can do so by either pressing `f12` or right clicking on the page and then inspect or pressing `ctrl+shift+i`.
+
   - You should see be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
 
-### Task
+  - Change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
 
-Your task is to change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
+    Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
 
-- Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
+    _Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will have to actually do it from the file itself.
 
-_Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will have to actually do it from the file itself.
+- Add some more elements to in your `div`, after each step check your browser to see the changes:
+
+  - Add the `h1` tag back to your code with the content `The Main Heading`.
+  - Add an `h2` tag that has the content `Sunheading`.
+  - Add a `p` tag with the content `First paragraph`.
+  - Add an `img` tag with an image from your laptop of your choosing.
+    More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
+  - Add a second `div` (nested div).
+  - In the second `div` add another `p` tag with the content `Second paragraph`.
+  - The result should look something like this, only use this in case you are stuck
+
+    <details>
+     <summary>Code result</summary>
+       &lt;div&gt;
+       <br>
+        &lt;h1&gt;The Main Heading&lt;/h1&gt;
+        <br>
+        &lt;h2&gt;Subheading&lt;/h2&gt;
+        <br>
+        &lt;p&gt;Paragraph&lt;/p&gt;
+        <br>
+        &lt;img src="/" alt="Image"&gt;
+        <br>
+        &lt;div&gt;
+        <br>
+          &lt;p&gt;Second Paragraph&lt;/p&gt;
+          <br>
+        &lt;/div&gt;
+        <br>
+      &lt;/div&gt;
+    </details>
+
+      <details>
+      <summary>Result in browser</summary>
+        <div>
+          <h1>The Main Heading</h1>
+          <h2>Subheading</h2>
+          <p>Paragraph</p>
+          <img src="/" alt="Image">
+          <div>
+            <p>Second Paragraph</p>
+          </div>
+        </div>
+      </details>
