@@ -15,7 +15,7 @@ HTML is one of the most widely used languages on Web to develop web pages. It he
 
 ## Origin of HTML
 
-HTML - Hyper Text Markup Language is a language that was created by Tim Berners-Lee was putting together his first elementary browsing and authoring system for the Web and created a quick little hypertext language that would serve his purposes.
+HTML - Hyper Text Markup Language is a language that was created by Tim Berners-Lee. Berners-Lee was putting together his first elementary browsing and authoring system for the Web and created a quick little hypertext language that would serve his purposes.
 
 HTML was text-based and anyone could use any editor or word processor to create or convert documents for the Web. The developers started implementing new features in their browsers and started releasing advanced versions of HTML.
 
@@ -57,7 +57,7 @@ The main parts of our element are:
 
 ![html basic structure](https://user-images.githubusercontent.com/22002193/69439363-72556d00-0d4f-11ea-8779-2005751cdd10.png)
 
-The three tags that you need for your HTML document are <html>, <head>, and <body>.
+The three tags that you need for your HTML document are `<html>`, `<head>`, and `<body>`.
 
 1. The `<html></html>` tag is the highest level element that encloses every HTML page.
 2. The `<head></head>` tag holds meta information such as the page’s title and charset.
@@ -98,6 +98,13 @@ Your code should look something like this:
 ```
 
 - Right click on your html file and click on `open in browser`, this should open the browser with the result of this file. You should see the h1 heading with `The Main Heading` on the page.
+
+<details>
+<summary>If you are using Atom</summary>
+To be able to view your html file in your browser, install the open-in-browsers package by going to: 
+  
+Atom -> Preferences -> Install
+</details>
 
 - Let's explore this a bit more, in the browser, open the inspector. You can do so by either pressing `f12` or right clicking on the page and then inspect or pressing `ctrl+shift+i`.
 
