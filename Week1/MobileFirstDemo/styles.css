@@ -1,0 +1,52 @@
+/* remember you can always use % as a value to be set to width or height instead of pixles 
+https://stackoverflow.com/questions/7285058/css-percentages-or-pixels */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#sum {
+  height: 100px;
+  width: 100px;
+  font-size: 40px;
+  text-align: center;
+}
+.firstBox {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+.secondBox {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+.thirdBox {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+}
+.fourthBox {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+
+/*1-mobile-first with media query:every style that is modified or set 
+outside media query block
+is applied on screen that has width of 600px 
+ as a maximum thus we dont have 
+to worry about code arrangement*/
+
+/*2-remember what you set outside media query will be the default no matter
+what screen size you are using 
+unless you modify it inside the media query block and this is why it is called
+mobile-first
+*/
+@media (min-width: 600px) {
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
+}

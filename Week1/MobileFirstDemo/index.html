@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+
+    <meta charset="UTF-8" />
+    <!--     
+The viewport is the user's visible area of a web page.
+
+The viewport varies with the device, and will be smaller on a mobile phone than on a computer screen.
+A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling.
+
+The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+
+The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser. -->
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+      id="screenSize"
+    />
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="firstBox"></div>
+
+      <div class="secondBox"></div>
+
+      <div class="thirdBox"></div>
+      <div class="fourthBox"></div>
+      <button onclick="hello()">click me</button>
+      <div id="sum"></div>
+    </div>
+
+    <!-- Placing scripts at the bottom of the <body> element improves the display speed, 
+        because script interpretation slows down the display. -->
+
+    <!-- https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup -->
+    <script type="text/javascript">
+      function hello() {
+        //we created a function that will be called on button click
+        //this function has no input and it does two DOM changes
+        //first change is that we insert the value of the sum inside a div that we created before
+        //second change is that we are changing the style of the first box to be blue instead of black
+        //the point here that is one way that we can change a style using if condition using js
+        //meanning that styles can be changed dynamiclly with the values changing using javascript
+
+        var x = 1;
+        var y = 2;
+        var sum = 0;
+        sum = x + y;
+        var domElement;
+        domElement = document.getElementById("sum");
+        domElement.innerHTML = sum;
+        if (sum === 3) {
+          // in the console log that we have on line 64 we are logging the DOM Element
+          // that we have we keep in mind document.getElementsByClassName returns an Array
+          // thus we need to select the first element of the array so we can change its style or
+          // manipulate it
+          var firstBox = document.getElementsByClassName("firstBox")[0];
+          console.log(document.getElementsByClassName("firstBox"));
+          //the next line we change the style of the DOM element to be blue
+          //notice that we have used camelCase to select css property
+          firstBox.style.backgroundColor = "blue";
+        }
+        // so these if statements down there, you can think of them like media queries in a
+        // scripted way it will check the screen width and
+        // accordingly will change the second box color to the color specified in the if block
+        if (screen.width > 600) {
+          var secondBox = document.getElementsByClassName("secondBox")[0];
+          firstBox.style.backgroundColor = "purple";
+        } else {
+          var secondBox = document.getElementsByClassName("secondBox")[0];
+          firstBox.style.backgroundColor = "pink";
+        }
+      }
+    </script>
+  </body>
+</html>
