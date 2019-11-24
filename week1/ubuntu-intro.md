@@ -47,24 +47,24 @@ Go to ` Control Panel > System and Security > Create and format hard disk partit
 
 ![image alt](https://i.imgur.com/L0daELC.gif)
 
+- **Make sure to check in with a mentor before moving on to Step 3**.
 ### Step 3
 
 - Restart your computer and enter the BIOS Setup. **Make sure to have the usb stick in the computer**
      - On every computer the entry to BIOS key is different, so you should go on Google and search how to get in the BIOS for you paticular computer's model. or here's a list for the common BIOS keys for different manufacturers:
   
-    - Acer: F2 or DEL
-ASUS: F2 for all PCs, F2 or DEL for motherboards
-Dell: F2 or F12
-HP: ESC or F10
-Lenovo: F2 or Fn + F2
-Lenovo (Desktops): F1
-Lenovo (ThinkPads): Enter + F1.
-MSI: DEL for motherboards and PCs
-Microsoft Surface Tablets: Press and hold volume up button.
-Origin PC: F2
-Samsung: F2
-Sony: F1, F2, or F3
-Toshiba: F2
+        - Acer: F2 or DEL
+        - ASUS: F2 for all PCs, F2 or DEL for motherboards
+        - Dell: F2 or F12
+        - HP: ESC or F10
+        - Lenovo: F2 or Fn + F2
+        - Lenovo (Desktops): F1
+        - Lenovo (ThinkPads): Enter + F1.
+        - MSI: DEL for motherboards and PCs
+        - Microsoft Surface Tablets: Press and hold volume up button.
+        - Samsung: F2
+        - Sony: F1, F2, or F3
+        - Toshiba: F2
 
 > If you are stuck or not sure what to do, ask a fellow a student for help.
 
