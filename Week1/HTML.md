@@ -204,7 +204,7 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
   
   - Read about HTML [links](https://www.w3schools.com/html/html_links.asp)  
   
-  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`)  
+  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`, `<s>`)  
   
   - Read about HTML [forms](https://www.w3schools.com/html/html_forms.asp)  
   
