@@ -57,7 +57,7 @@ The main parts of our element are:
 
 ![html basic structure](https://user-images.githubusercontent.com/22002193/69439363-72556d00-0d4f-11ea-8779-2005751cdd10.png)
 
-The three tags that you need for your HTML document are <html>, <head>, and <body>.
+The three tags that you need for your HTML document are `<html>`, `<head>`, and `<body>`.
 
 1. The `<html></html>` tag is the highest level element that encloses every HTML page.
 2. The `<head></head>` tag holds meta information such as the page’s title and charset.
@@ -88,6 +88,10 @@ The result should look like the following:
 _Note: We will explore all the tags later_
 
 - In the `<body>` tag add an `<h1>`
+
+Headings are defined with the `<h1>` to `<h6>` tags.
+
+`<h1>` defines the most important heading and `<h6>` defines the least important heading.
 
 Your code should look something like this:
 
@@ -120,18 +124,24 @@ Your code should look something like this:
 
   - Add the `h1` tag back to your code with the content `The Main Heading`.
   - Add an `h2` tag that has the content `Sunheading`.
+    Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
   - Add a `p` tag with the content `First paragraph`.
   - Add an `img` tag with an image from your laptop of your choosing.
     More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
   - Add a second `div` (nested div).
   - In the second `div` add another `p` tag with the content `Second paragraph`.
-  - The result should look something like this, only use this in case you are stuck
+  - Comments are used to leave messages for other devs without affecting the code itself. To add    a comment in an html         file use the following syntax: `<!--` your comment goes in here `-->`
+  - Now add a comment to your file just after the main heading.
+  
+  - The result should look something like this (_only use this in case you are stuck_):
 
     <details>
      <summary>Code result</summary>
        &lt;div&gt;
        <br>
         &lt;h1&gt;The Main Heading&lt;/h1&gt;
+        <br>
+        &lt;!-- My smart comment! --&gt;
         <br>
         &lt;h2&gt;Subheading&lt;/h2&gt;
         <br>
