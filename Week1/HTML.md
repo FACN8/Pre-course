@@ -123,15 +123,18 @@ Your code should look something like this:
 - Add some more elements to in your `div`, after each step check your browser to see the changes:
 
   - Add the `h1` tag back to your code with the content `The Main Heading`.
-  - Add an `h2` tag that has the content `Sunheading`.
+  - Add an `h2` tag that has the content `Sunheading`.  
+  
     Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
   - Add a `p` tag with the content `First paragraph`.
-  - Add an `img` tag with an image from your laptop of your choosing.
+  - Add an `img` tag with an image from your laptop of your choosing.  
+  
     More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
   - Add a second `div` (nested div).
-  - In the second `div` add another `p` tag with the content `Second paragraph`.
-  - Comments are used to leave messages for other devs without affecting the code itself. To add    a comment in an html         file use the following syntax: `<!--` your comment goes in here `-->`
-  - Now add a comment to your file just after the main heading.
+  - In the second `div` add another `p` tag with the content `Second paragraph`.  
+    
+    Comments are used to leave messages for other devs without affecting the code itself. To add a comment in an html           file use the following syntax: `<!--` your comment goes in here `-->`
+  - Now add a comment to your file just below the main heading.
   
   - The result should look something like this (_only use this in case you are stuck_):
 
@@ -170,3 +173,46 @@ Your code should look something like this:
           </div>
         </div>
       </details>
+      
+### Task 2: Add more elements to your HTML page  
+
+- Read about ways of creating [ordered](https://www.w3schools.com/tags/tag_ol.asp) and [unordered](https://www.w3schools.com/tags/tag_ul.asp) lists in html. In your file add two new `div`s and create one list in each of them. The lists should look like this:  
+
+My to-do list:
+1. (_insert your tasks here_) 
+2.  
+3.  
+
+  Three people sitting next to me:  
+  - (_insert their names_)
+  -  
+  -  
+
+### Task 3 - Build a webpage to match the mockup  
+
+Create a new HTML file (let's call it exercise.html) and try to create a webpage that will look exactly like this mockup (you can click on the image to enlarge it). Mind the instructions.
+![](https://i.imgur.com/UsMwmXa.png)
+
+##### Instructions  
+- Use only HTML, no CSS.
+- You can choose another picture of Narhwal, this picture is just an example.
+- The picture should be a link leading to an article about Narwhal (use whatever article you would like).
+- The name _Mac's Mission_ should lead to https://www.iampitbullstrong.com//.  
+
+<details>
+     <summary>Hints</summary>  
+  
+  - Read about HTML [links](https://www.w3schools.com/html/html_links.asp)  
+  
+  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`)  
+  
+  - Read about HTML [forms](https://www.w3schools.com/html/html_forms.asp)  
+  
+  </details>
+  
+<details>
+     <summary>See the solution (only when done!)</summary>  
+  
+  https://codepen.io/kira-abl/pen/mddYrjj?editors=1000
+  
+</details>
