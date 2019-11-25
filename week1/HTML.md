@@ -114,17 +114,15 @@ Your code should look something like this:
 
 ![](https://i.imgur.com/NF8zVdf.png)
 
-  - You should be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
+  - You should be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor. _Notice_ that such changes will not be saved in your file and will only affect the browser, if you wish to save them then you will have to actually do it from the file itself.
 
-  - Change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
+  - In your editor, add a `div` tag to your file.
 
     Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
 
-    _Notice_ that these changes will not be saved in your file and only affect the browser, if you wish to save them then you will have to actually do it from the file itself.
+- Add some more elements to your `div`, after each step check your browser to see the changes:
 
-- Add some more elements to in your `div`, after each step check your browser to see the changes:
-
-  - Add the `h1` tag back to your code with the content `The Main Heading`.
+  - Add the content `The Main Heading` to your `h1` tag.
   - Add an `h2` tag that has the content `Subheading`.  
   
     Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
