@@ -223,7 +223,7 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
 
 In html a table is defined with the `<table>` tag. Each row is defined with the `<tr>` tag (**t**able **r**ow). A **t**able **h**eader is defined with the `<th>` tag. Each cell is defined with the `<td>` (**t**able **d**ata) tag.
 
-* Read more about [tables](https://www.w3schools.com/html/html_tables.asp), in a new .html file build a table that will have the following information in it:
+* Read more about [tables](https://www.w3schools.com/html/html_tables.asp), and in a new .html file build a table that will have the following information in it:
 
 ![](https://i.imgur.com/u9jlXqU.png)
 
@@ -275,7 +275,6 @@ The <script> element either contains scripting statements, or it points to an ex
 This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
 
 * Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts.  
-
 
 
 
