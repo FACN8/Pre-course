@@ -12,9 +12,22 @@ CSS describes how HTML elements are to be displayed on screen, paper, or in othe
 
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 
-Basic css example
+## CSS example
 
-- color h1
+Let's take a look at the following [example](https://codepen.io/shiryz/pen/VwwOBGa?editors=1100#0) in codepen.
+
+As you can see you have an `h1` heading that appears in black, let's change it to red.
+
+- In the CSS tab you can see the following code
+
+```css
+.heading {
+}
+```
+
+- Add this line inside the curly braces: `color: red;`.
+
+- You should see the color changing to red :tada:.
 
 How to add css to your html
 
