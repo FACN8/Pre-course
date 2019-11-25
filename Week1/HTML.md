@@ -191,13 +191,13 @@ My to-do list:
   -  
 
 ### Task 3 - Build a webpage to match the _mockup_
-( In design, a mockup is  a mid- to high-fidelity representation of the product’s appearance that shows the basics of its functionality)   
+(In design, a mockup is  a mid- to high-fidelity representation of the product’s appearance that shows the basics of its functionality)   
 
 Create a new HTML file (let's call it exercise.html) and try to create a webpage that will look exactly like this mockup (you can click on the image to open it in a new tab, if you'd like to see a larger version of it). Mind the instructions.
 ![](https://i.imgur.com/UsMwmXa.png)
 
 ##### Instructions  
-- Use only HTML, no CSS.
+- Use only HTML (even if you know CSS).
 - You can choose another picture of Narhwal, this picture is just an example.
 - The picture should be a link leading to an article about Narwhal (use whatever article you would like).
 - The name _Mac's Mission_ should lead to https://www.iampitbullstrong.com//.  
@@ -207,7 +207,7 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
   
   - Read about HTML [links](https://www.w3schools.com/html/html_links.asp)  
   
-  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`, `<s>`, `<br>` )  
+  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`, `<s>`, `<br>` ) 
   
   - Read about HTML [forms](https://www.w3schools.com/html/html_forms.asp)  
   
