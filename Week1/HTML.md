@@ -217,15 +217,15 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
   
 </details>
 
-### Task 4 - More HTML tags
-
-**Tables**
+### Task 4 - Tables
 
 In html a table is defined with the `<table>` tag. Each row is defined with the `<tr>` tag (**t**able **r**ow). A **t**able **h**eader is defined with the `<th>` tag. Each cell is defined with the `<td>` (**t**able **d**ata) tag.
 
 * Read more about [tables](https://www.w3schools.com/html/html_tables.asp), in a new .html file build a table that will have the following information in it:
 
 ![](https://i.imgur.com/u9jlXqU.png)
+
+## Advanced HTML
 
 **HTML `<meta>` Tag**
 
@@ -256,9 +256,23 @@ The `<video>` tag specifies video, such as a movie clip.
 ```
 * Add a video to your file. If your user's browser doesn't support the `<video>` tag, show him a message saying he cannot view the video (Google is your friend). You can use this [MP4 file](http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4). 
 
+**HTML `<inframe>` Tag**
 
+An inline frame is used to embed another document within the current HTML document.  
 
+`<iframe src="http://..."></iframe>`
 
+* Add a frame showing your favorite news site to your html file.
+
+**HTML `<script>` Tag**
+
+The <script> element either contains scripting statements, or it points to an external script file through the src attribute. Let's see a JavaScript function that is located between the `<script>` tags:  
+  
+  `<script>alert("Hello FACN8!");</script>`
+
+This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
+
+* Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts.  
 
 
 
