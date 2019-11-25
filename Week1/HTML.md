@@ -216,3 +216,45 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
   https://codepen.io/kira-abl/pen/mddYrjj?editors=1000
   
 </details>
+
+### Task 4 - More HTML tags
+
+**Tables**
+
+In html a table is defined with the `<table>` tag. Each row is defined with the `<tr>` tag (**t**able **r**ow). A **t**able **h**eader is defined with the `<th>` tag. Each cell is defined with the `<td>` (**t**able **d**ata) tag.
+
+* Read more about [tables](https://www.w3schools.com/html/html_tables.asp), in a new .html file build a table that will have the following information in it:
+
+![](https://i.imgur.com/u9jlXqU.png)
+
+**HTML `<meta>` Tag**
+
+Meta tags are snippets of text that describe a page’s content; they will not be visible on the page itself, but only in the page’s source code (html). Those tags are content descriptors that help tell search engines what a web page is about.Meta tags always go inside the `<head>` element.
+
+* Read more about the [`<meta>`](https://www.w3schools.com/tags/tag_meta.asp) tag, in the file you are working on add a <meta> element that gives the browser instructions on how to control the page's dimensions and scaling.
+
+<details>
+     <summary>Hint</summary>  
+Setting The Viewport
+  </details>
+
+**HTML `<video>` Tag**  
+
+The `<video>` tag specifies video, such as a movie clip.
+
+```html
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+```
+* Add a video to your file. If your user's browser doesn't support the `<video>` tag, show him a message saying he cannot view the video (Google is your friend). You can use this [MP4 file](http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4). 
+
+
+
+
+
+
+
+
+
