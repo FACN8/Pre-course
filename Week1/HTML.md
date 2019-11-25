@@ -190,7 +190,8 @@ My to-do list:
   -  
   -  
 
-### Task 3 - Build a webpage to match the mockup  
+### Task 3 - Build a webpage to match the _mockup_
+( In design, a mockup is  a mid- to high-fidelity representation of the product’s appearance that shows the basics of its functionality)   
 
 Create a new HTML file (let's call it exercise.html) and try to create a webpage that will look exactly like this mockup (you can click on the image to open it in a new tab, if you'd like to see a larger version of it). Mind the instructions.
 ![](https://i.imgur.com/UsMwmXa.png)
@@ -275,4 +276,3 @@ The <script> element either contains scripting statements, or it points to an ex
 This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
 
 * Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts.  
-
