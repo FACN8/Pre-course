@@ -114,7 +114,7 @@ Your code should look something like this:
 
 ![](https://i.imgur.com/NF8zVdf.png)
 
-  - You should see be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
+  - You should be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
 
   - Change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
 
