@@ -129,8 +129,9 @@ Your code should look something like this:
   
     Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
   - Add a `p` tag with the content `First paragraph`.
-  - Add an `img` tag with an image from your laptop of your choosing.  
+  - Add an `img` tag with an image from your laptop of your choosing. Important: some html elements don't require a closing     tag, since nothing else can be put inside of them. Image is one such element.
   
+    More about [elements](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element) that shouldn't be closed.  
     More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
   - Add a second `div` (nested div).
   - In the second `div` add another `p` tag with the content `Second paragraph`.  
