@@ -259,7 +259,7 @@ The `<video>` tag specifies video, such as a movie clip.
 ```
 * Add a video to your file. If your user's browser doesn't support the `<video>` tag, show him a message saying he cannot view the video (Google is your friend). You can use this [MP4 file](http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4). 
 
-**HTML `<inframe>` Tag**
+**HTML `<iframe>` Tag**
 
 An inline frame is used to embed another document within the current HTML document.  
 
