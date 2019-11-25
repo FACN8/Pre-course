@@ -23,37 +23,37 @@
 
 ### Code-along Recap
 
-- `pwd` - print working directory
+- [`pwd`](http://www.linfo.org/pwd.html) - print working directory
 > prints the current directory you are in.
 
 ![image alt](https://i.imgur.com/HKAopX6.gif)
 
-- `ls` - list
+- [`ls`](https://www.rapidtables.com/code/linux/ls.html) - list
 > prints the contents of the current directory.
 
 ![image alt](https://i.imgur.com/6iX0vwX.gif)
 
-- `cd` - change directory (change folder)
+- [`cd`](http://www.linfo.org/cd.html) - change directory (change folder)
 > changes the current directory to the target directory
 
 ![image alt](https://i.imgur.com/QuGOvzd.gif)
 
-- `clear`
+- [`clear`](http://www.linfo.org/clear.html)
 > clears the terminal's previous outputs
 
 ![image alt](https://i.imgur.com/KMR4qId.gif)
 
-- `mkdir` - make directory
+- [`mkdir`](http://www.linfo.org/mkdir.html) - make directory
 > creates a new directory in the current directory.
 
 ![image alt](https://i.imgur.com/KP2hZtR.gif)
 
-- `touch`
+- [`touch`](http://www.linfo.org/touch.html)
 > creates a new file in the current directory.
 
 ![image alt](https://i.imgur.com/vn7U2yN.gif)
 
-- `cat` - concatenate
+- [`cat`](http://www.linfo.org/cat.html) - concatenate
 > prints the file's content onto the terminal.
 
 > let's imagine we added some content or code to our new file
@@ -70,12 +70,12 @@
 
 ![image alt](https://i.imgur.com/JZiA0Zp.gif)
 
-- `code some-file`
+- [`code some-file`](https://code.visualstudio.com/docs/editor/command-line)
 > opens the target file with visual studio code.
 
 ![image alt](https://i.imgur.com/KRLGlsW.gif)
 
-- `code .` - `.` one dot in linux translates to current directory.
+- [`code .`](https://code.visualstudio.com/docs/editor/command-line) - `.` one dot in linux translates to current directory.
 > so here we are saying open the current directory with visual studio code.
 
 ![image alt](https://i.imgur.com/9CtiDIo.gif)
