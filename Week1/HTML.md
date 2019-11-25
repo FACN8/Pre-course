@@ -233,7 +233,7 @@ In html a table is defined with the `<table>` tag. Each row is defined with the 
 
 Meta tags are snippets of text that describe a page’s content; they will not be visible on the page itself, but only in the page’s source code (html). Those tags are content descriptors that help tell search engines what a web page is about. Meta tags always go inside the `<head>` element.
 
-* Read more about the [`<meta>`](https://www.w3schools.com/tags/tag_meta.asp) tag, in the file you are working on add a <meta> element that gives the browser instructions on how to control the page's dimensions and scaling.
+* Read more about the [`<meta>`](https://www.w3schools.com/tags/tag_meta.asp) tag, and in the file you are working on add a `<meta>` element that gives the browser instructions on how to control the page's dimensions and scaling.
 
 <details>
      <summary>Hint</summary>  
@@ -275,5 +275,4 @@ The <script> element either contains scripting statements, or it points to an ex
 This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
 
 * Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts.  
-
 
