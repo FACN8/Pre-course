@@ -204,7 +204,7 @@ Create a new HTML file (let's call it exercise.html) and try to create a webpage
   
   - Read about HTML [links](https://www.w3schools.com/html/html_links.asp)  
   
-  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`, `<s>`)  
+  - Read about HTML [tags](https://www.w3schools.com/tags/tag_hr.asp) (`<em>`, `<strong>`, `<hr>`, `<sub>`, `<s>`, `<br>` )  
   
   - Read about HTML [forms](https://www.w3schools.com/html/html_forms.asp)  
   
@@ -237,6 +237,13 @@ Meta tags are snippets of text that describe a page’s content; they will not b
      <summary>Hint</summary>  
 Setting The Viewport
   </details>
+  
+**HTML `<title>` Tag**
+
+The `<title>` tag is required in all HTML documents, it defines the title of the document and is used by search engines. This tag is always added between the `<head>` tags. Your document can only have one title.
+
+* Add a title of your choice to your file. Don't forget to palce it between your `<head>` tags.  
+  
 
 **HTML `<video>` Tag**  
 
@@ -245,7 +252,6 @@ The `<video>` tag specifies video, such as a movie clip.
 ```html
 <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
 </video>
 ```
 * Add a video to your file. If your user's browser doesn't support the `<video>` tag, show him a message saying he cannot view the video (Google is your friend). You can use this [MP4 file](http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4). 
