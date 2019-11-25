@@ -263,7 +263,9 @@ The `<video>` tag specifies video, such as a movie clip.
 
 An inline frame is used to embed another document within the current HTML document.  
 
-`<iframe src="http://..."></iframe>`
+```html
+<iframe src="http://..."></iframe>
+```
 
 * Add a frame showing your favorite news site to your html file.
 
@@ -271,7 +273,9 @@ An inline frame is used to embed another document within the current HTML docume
 
 The <script> element either contains scripting statements, or it points to an external script file through the src attribute. Let's see a JavaScript function that is located between the `<script>` tags:  
   
-  `<script>alert("Hello FACN8!");</script>`
+  ```html
+  <script>alert("Hello FACN8!");</script>
+```
 
 This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
 
