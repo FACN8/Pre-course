@@ -280,4 +280,14 @@ The <script> element either contains scripting statements, or it points to an ex
 
 This function will show an alert window on your webpage. You will learn more about JavaScript later on, at this point it's important to understand that whatever is placed inside of `<script>` can be used to add interactivity to our pages. This tag is usually placed at the bottom of the `<body>` element. 
 
-* Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts.  
+* Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts. 
+
+**Additional Resources**  
+- HTML tutorial and references - [w3schools](https://www.w3schools.com/html/default.asp)  
+- Another HTML [tutorial](https://www.codecademy.com/learn/learn-html)  
+- HTML documentation on [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- Introduction to HTML5, a free course on [Coursera](https://www.coursera.org/learn/html)
+- HTML5 Coding Essentials and Best Practices, a free course on [edX](https://www.edx.org/course/html5-coding-essentials-and-best-practices)
+- Arabic speaking free course on [Coursera](https://www.coursera.org/learn/website-coding-ar)
+
+
