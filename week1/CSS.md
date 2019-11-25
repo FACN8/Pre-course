@@ -103,6 +103,8 @@ _Notice_ that the `center` class applies to both the `h1` and the `p` tag, unlik
 
 ## CSS RULES!
 
-How to add css to your html
+Let's practice some css rules, in this [link](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) go over the exercises of the 'Basic CSS'  section. 
 
-link in html
+If you are finished with the 'Basic CSS' section go to [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/) and solve these too.
+
+
