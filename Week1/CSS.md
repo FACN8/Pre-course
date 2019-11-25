@@ -21,13 +21,21 @@ As you can see you have an `h1` heading that appears in black, let's change it t
 - In the CSS tab you can see the following code
 
 ```css
-.heading {
+h1 {
 }
 ```
 
 - Add this line inside the curly braces: `color: red;`.
 
 - You should see the color changing to red :tada:.
+
+### Analysis
+
+The rule opens with a selector . This selects the HTML element that we are going to style. In this case we are styling level one headings (`<h1>`).
+
+We then have a set of curly braces { }. Inside those will be one or more declarations, which take the form of property and value pairs. Each pair specifies a property of the element(s) we are selecting, then a value that we'd like to give the property.
+
+Before the colon, we have the property, and after the colon, the value. CSS properties have different allowable values, depending on which property is being specified. In our example, we have the color property, which can take various color [values](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#Color).
 
 How to add css to your html
 
