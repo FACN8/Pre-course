@@ -112,6 +112,8 @@ Your code should look something like this:
 
 - Let's explore this a bit more, in the browser, open the inspector. You can do so by either pressing `f12` or right clicking on the page and then inspect or pressing `ctrl+shift+i`.
 
+![](https://i.imgur.com/NF8zVdf.png)
+
   - You should see be able to see the elements you created before (raw html), in the elements tab. You can edit/delete/add elements here like you did in your editor.
 
   - Change the elements in the browser from the inspector, delete the current `h1` tag and add a `div` tag.
@@ -123,7 +125,7 @@ Your code should look something like this:
 - Add some more elements to in your `div`, after each step check your browser to see the changes:
 
   - Add the `h1` tag back to your code with the content `The Main Heading`.
-  - Add an `h2` tag that has the content `Sunheading`.  
+  - Add an `h2` tag that has the content `Subheading`.  
   
     Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
   - Add a `p` tag with the content `First paragraph`.
