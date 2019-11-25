@@ -118,19 +118,20 @@ Your code should look something like this:
 
   - In your editor, add a `div` tag to your file.
 
-    Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
+    > Find out more about [`div`](https://www.w3schools.com/tags/tag_div.asp)
 
-- Add some more elements to your `div`, after each step check your browser to see the changes:
+- Add some more elements to your `div`, after each step refresh your browser to see the changes:
 
   - Add the content `The Main Heading` to your `h1` tag.
   - Add an `h2` tag that has the content `Subheading`.  
   
-    Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
+    > Why are headings [important?](https://www.w3schools.com/html/html_headings.asp)
   - Add a `p` tag with the content `First paragraph`.
   - Add an `img` tag with an image from your laptop of your choosing. Important: some html elements don't require a closing     tag, since nothing else can be put inside of them. Image is one such element.
   
-    More about [elements](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element) that shouldn't be closed.  
-    More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
+    > More about [elements](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element) that shouldn't be closed.  
+    > More about [`img`](https://www.w3schools.com/tags/tag_img.asp).
+    
   - Add a second `div` (nested div).
   - In the second `div` add another `p` tag with the content `Second paragraph`.  
     
@@ -240,14 +241,14 @@ Meta tags are snippets of text that describe a page’s content; they will not b
 Setting The Viewport
   </details>
   
-**HTML `<title>` Tag**
+#### HTML `<title>` Tag
 
 The `<title>` tag is required in all HTML documents, it defines the title of the document and is used by search engines. This tag is always added between the `<head>` tags. Your document can only have one title.
 
 * Add a title of your choice to your file. Don't forget to palce it between your `<head>` tags.  
   
 
-**HTML `<video>` Tag**  
+#### HTML `<video>` Tag
 
 The `<video>` tag specifies video, such as a movie clip.
 
@@ -258,7 +259,7 @@ The `<video>` tag specifies video, such as a movie clip.
 ```
 * Add a video to your file. If your user's browser doesn't support the `<video>` tag, show him a message saying he cannot view the video (Google is your friend). You can use this [MP4 file](http://mirrors.standaloneinstaller.com/video-sample/dolbycanyon.mp4). 
 
-**HTML `<iframe>` Tag**
+#### HTML `<iframe>` Tag
 
 An inline frame is used to embed another document within the current HTML document.  
 
@@ -268,7 +269,7 @@ An inline frame is used to embed another document within the current HTML docume
 
 * Add a frame showing your favorite news site to your html file.
 
-**HTML `<script>` Tag**
+#### HTML `<script>` Tag
 
 The <script> element either contains scripting statements, or it points to an external script file through the src attribute. Let's see a JavaScript function that is located between the `<script>` tags:  
   
@@ -280,7 +281,8 @@ This function will show an alert window on your webpage. You will learn more abo
 
 * Add a script showing an alert window to your page. If your user has scripts disabled in his browser, show him a message saying he cannot view scripts. 
 
-**Additional Resources**  
+
+### Additional Resources  
 - HTML tutorial and references - [w3schools](https://www.w3schools.com/html/default.asp)  
 - Another HTML [tutorial](https://www.codecademy.com/learn/learn-html)  
 - HTML documentation on [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
