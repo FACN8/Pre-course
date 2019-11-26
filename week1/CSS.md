@@ -126,6 +126,18 @@ The Flexible Box Layout Module (Flexbox) is a CSS3 web layout model. It helps yo
 * Please complete the [Flexbox Froggy game](https://flexboxfroggy.com/).
 * Use this [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to better understand all the   properties.
 
+## ADVANCED CSS :fire: Transitions & Animations
+
+ On w3schools.com, read the following sections and complete the exercises at the bottom (labelled **Test Yourself with Exercises!**)
+
+ - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+- [Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+### Transitions challenge 
+Try to solve this [chalenge](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations#sec-exercise-1), don't check the solution unless you have tried every possible way you can think of.
+
+Solution can be found in this [file]().
+  
 ## What's next? 
 **Go through these games, tutorials, and documentation:**
 
