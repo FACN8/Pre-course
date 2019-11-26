@@ -119,7 +119,7 @@ Build an animal card that looks like the one you see below. You can choose a dif
 
 ![](https://i.imgur.com/zWfTYD1.png)
 
-## Flexbox
+## Task 2 -- Flexbox
 
 The Flexible Box Layout Module (Flexbox) is a CSS3 web layout model. It helps you design a flexible responsive layout structure with ease, without using float or positioning. We will learn the basics of Flexbox by playing a game.
 
