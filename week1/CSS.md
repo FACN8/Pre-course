@@ -109,7 +109,13 @@ If you are finished with the 'Basic CSS' section go to [Applied Visual Design](h
 
 ## Task 1 -- Animal Card
 
-Build an animal card that looks like the one you see below. You can choose a different animal, but the design itself should match the one in the example.
+Build an animal card that looks like the one you see below. You can choose a different animal, but the design itself should match the one in the example. Your HTML and CSS should be divided into two seperate files. To 'connect' your CSS and HTML files, add the following to your `<head>` element (here the CSS file is called styles.css):  
+
+```html
+  <link rel="stylesheet" href="styles.css">
+  ```
+
+
 
 ![](https://i.imgur.com/zWfTYD1.png)
 
@@ -124,6 +130,7 @@ The Flexible Box Layout Module (Flexbox) is a CSS3 web layout model. It helps yo
 **Go through these games, tutorials, and documentation:**
 
 * Play a game to practice CSS [selectors](https://flukeout.github.io/)
+* Practice CSS on the go with [SoloLearn](https://www.sololearn.com/Course/CSS/) 
 * Learn about [CSS Grid](https://cssgridgarden.com/) by playing another game
 * Codecademy CSS [tutorial](https://www.codecademy.com/learn/learn-css)
 * Learn to debug [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
