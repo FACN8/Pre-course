@@ -108,3 +108,11 @@ Let's practice some css rules, in this [link](https://www.freecodecamp.org/learn
 If you are finished with the 'Basic CSS' section go to [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/) and solve these too.
 
 
+## ADVANCED CSS :fire: Transitions & Animations
+
+On w3schools.com, read the following sections and complete the exercises at the bottom (labelled **Test Yourself with Exercises!**)
+
+- [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+- [Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+ 
