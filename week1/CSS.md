@@ -107,12 +107,15 @@ Let's practice some css rules, in this [link](https://www.freecodecamp.org/learn
 
 If you are finished with the 'Basic CSS' section go to [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/) and solve these too.
 
+## Task 1 -- Animal Card
 
-## ADVANCED CSS :fire: Transitions & Animations
+Build an animal card that looks like the one you see below. You can choose a different animal, but the design itself should match the one in the example.
 
-On w3schools.com, read the following sections and complete the exercises at the bottom (labelled **Test Yourself with Exercises!**)
+![](https://i.imgur.com/zWfTYD1.png)
 
-- [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
-- [Animations](https://www.w3schools.com/css/css3_animations.asp)
+## Flexbox
 
- 
+The Flexible Box Layout Module (Flexbox) is a CSS3 web layout model. It helps you design a flexible responsive layout structure with ease, without using float or positioning. We will learn the basics of Flexbox by playing a game.
+
+* Please complete the [Flexbox Froggy game](https://flexboxfroggy.com/).
+* Use this [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to better understand all the   properties.
