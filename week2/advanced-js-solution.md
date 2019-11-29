@@ -98,3 +98,21 @@ var uniqueInOrder = function(iterable) {
   return result;
 };
 ```
+
+- Longest palindrome
+
+This question can be solved by counting the letters you encounter, you need to check that you have an even number of letters for each letter and one that is odd
+
+```js
+function longestPalindrome(str) {
+  var s = str.toLowerCase();
+  var arr = "abcdefghijklmnopqrstuvwxyz0123456789";
+  var count = 0;
+  for (var i = 0; i < arr.length; ++i) {
+    var c = 0;
+    for (var j = 0; j < s.length; ++j) if (s[j] == arr[i]) c++;
+    count += Math.floor(c / 2) * 2;
+  }
+  return count == s.length ? count : ++count;
+}
+```

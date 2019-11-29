@@ -38,9 +38,14 @@ Here are some challenges for you:
   </details>
 
 - [Unique in order](https://www.codewars.com/kata/unique-in-order/javascript)
+
   <details>
   <summary>Hints</summary>
   <ul>
   <li>Read about <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push" traget="_blank">array.push()</a> method </li>
   </ul>
   </details>
+
+- [Longest palindrome](https://www.codewars.com/kata/5a0178f66f793bc5b0001728)
+
+  No hints this time :fire:
