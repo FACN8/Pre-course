@@ -36,3 +36,11 @@ Here are some challenges for you:
   <li>What happens when you have both upper and lower case in the same array?</li>
   </ul>
   </details>
+
+- [Unique in order](https://www.codewars.com/kata/unique-in-order/javascript)
+  <details>
+  <summary>Hints</summary>
+  <ul>
+  <li>Read about <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push" traget="_blank">array.push()</a> method </li>
+  </ul>
+  </details>

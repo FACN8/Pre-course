@@ -82,3 +82,19 @@ function CompareForSort(first, second) {
   else return 1;
 }
 ```
+
+- Unique in order
+
+Another typical case for using a for loop
+
+```js
+var uniqueInOrder = function(iterable) {
+  var result = [];
+  for (var i = 0; i < iterable.length; i++) {
+    if (iterable[i - 1] === undefined || iterable[i - 1] !== iterable[i]) {
+      result.push(iterable[i]);
+    }
+  }
+  return result;
+};
+```
