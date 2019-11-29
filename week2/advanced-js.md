@@ -4,7 +4,7 @@ You are at the point where you know JS really well, it is time that you test tha
 
 Here are some challenges for you:
 
-- [Format a string](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/javascript)
+1. [Format a string](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/javascript)
 
   <details>
   <summary>Hints</summary>
@@ -16,7 +16,7 @@ Here are some challenges for you:
    </ul>
   </details>
 
-- [Count the divisible numbers](https://www.codewars.com/kata/55a5c82cd8e9baa49000004c)
+2. [Count the divisible numbers](https://www.codewars.com/kata/55a5c82cd8e9baa49000004c)
 
   <details>
   <summary>Hints</summary>
@@ -26,7 +26,7 @@ Here are some challenges for you:
   </ul>
   </details>
 
-- [Sorting arrays alphabetically](https://www.codewars.com/kata/51f41fe7e8f176e70d0002b9)
+3. [Sorting arrays alphabetically](https://www.codewars.com/kata/51f41fe7e8f176e70d0002b9)
 
   <details>
   <summary>Hints</summary>
@@ -37,7 +37,7 @@ Here are some challenges for you:
   </ul>
   </details>
 
-- [Unique in order](https://www.codewars.com/kata/unique-in-order/javascript)
+4. [Unique in order](https://www.codewars.com/kata/unique-in-order/javascript)
 
   <details>
   <summary>Hints</summary>
@@ -46,6 +46,5 @@ Here are some challenges for you:
   </ul>
   </details>
 
-- [Longest palindrome](https://www.codewars.com/kata/5a0178f66f793bc5b0001728)
-
-  No hints this time :fire:
+5. [Longest palindrome](https://www.codewars.com/kata/5a0178f66f793bc5b0001728)
+   > No hints this time :fire:
