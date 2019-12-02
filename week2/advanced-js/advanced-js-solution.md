@@ -10,9 +10,9 @@ This is the solution for the advanced JavaScript workshop, only look at it in ca
 
   ```js
   function list(names) {
-    let sentance = "";
+    var sentance = "";
     names.forEach(({ name: item }, index) => {
-      const namesLength = names.length;
+      var namesLength = names.length;
 
       if (index + 1 === namesLength && namesLength !== 1) {
         sentance += " & ";
