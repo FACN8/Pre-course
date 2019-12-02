@@ -2,7 +2,7 @@
 
 You are at the point where you know JS really well, it is time that you test that knowledge.
 
-Here are some challenges for you:
+Here are some challenges for you (you will need a [CodeWars](https://www.codewars.com/) account): 
 
 1. [Format a string](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/javascript)
 
