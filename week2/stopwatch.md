@@ -1,7 +1,7 @@
 # Stopwatch
 
 
-![reference]: https:// "title"(http://www.vbtutor.net/VB_Sample/stopwa1.jpg)
+![reference](http://www.vbtutor.net/VB_Sample/stopwa1.jpg)
 
 Build a stopwatch!
 
