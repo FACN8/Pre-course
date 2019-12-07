@@ -11,5 +11,5 @@
 - 11:00-13:00: [Research Topics](https://github.com/FACN7/master-reference/blob/master/coursebook/week-1/research-afternoon.md) (including [Presentation Guidance](https://github.com/FACN7/master-reference/blob/master/coursebook/week-1/presentation-guidance.md))  
 - 14:00-15:30: Research Presentations
 - 15:30-16:30: Regular Expressions on [FreeCodeCamp](https://www.freecodecamp.org/learn) (search *JavaScript Algorithms and Data Structures Certification* > *Regular Expressions*)
-- 16:30:18:00: Finish off any left over work (incl from previous weeks)
+- 16:30-18:00: Finish off any left over work (incl from previous weeks)
 
