@@ -11,7 +11,7 @@ Your project for this week is to build a **one-page** JavaScript quiz. It might 
 * As a player, if my answer was the wrong one, I want to see the correct answer.
 * As a player, I want to know how many questions I have left (e.g., 'Question 2/5'.
 * As a player, I want to receive one point for each correct answer and see my results when the games ends.
-* As a player, I want to be able ti quit the game and return to the home screen.
+* As a player, I want to be able to press a button to restart the game
 
 ## Requirements
 * One-page app
