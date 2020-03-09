@@ -3,7 +3,7 @@ Introduction to DOM manipulation
 
 ## Exercise
 
-1. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge).
+1. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge-A).
 
 2. Open `exercise.js` and follow the instructions.
 
